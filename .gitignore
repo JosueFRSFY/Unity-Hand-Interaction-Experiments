@@ -1,0 +1,65 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Logs/
+UserSettings/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+.vscode/
+
+# ================#
+# JetBrains Rider #
+# ================#
+.idea/
+*JetBrains.meta
+JetBrains/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon\?
+ehthumbs.db
+Thumbs.db
+
+# ====================== #
+# Ultrahaptics generated #
+# ====================== #
+Builds/
+AssetDirStat.asset
+Build/
+Configure Local Build.exe.config
+Configure Local Build.pdb
+Configure Project.exe.config
+Configure Project.pdb
+UnityApp/TestOutput/*
+UnityApp/test.log
+Python/stats.csv
+Python/stats.html
+Python/.ipynb_checkpoints/*
+Recordings/*
+Models/*
+System.Diagnostics.DiagnosticSource.xml
+Newtonsoft.Json.xml
+UnityApp/TestRecordings/*
