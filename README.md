@@ -1,10 +1,5 @@
 # Single Handed Menu
-
-
-
-![A hand menu with a music player attached. The user is able to detach the hand menu from the hand by making a fist and moving far from the menu. Once detached, the user reattaches it by making a fist and moving close to the menu.](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/17143693/a9322de1-f436-4652-abbd-d98144388f75)
-
-
+https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/17143693/a9322de1-f436-4652-abbd-d98144388f75
 
 Single Handed Menu builds off existing the Hand Menu design paradigm, allowing you to detach the menu from the hand it is attached to.
 
