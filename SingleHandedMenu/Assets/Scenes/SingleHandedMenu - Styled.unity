@@ -1130,6 +1130,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3996209370891305733, guid: e2e0a5fcc5c35214f93f958e6f77526a,
+        type: 3}
+      propertyPath: m_text
+      value: Cool Blast - Kevin Macleod
+      objectReference: {fileID: 0}
+    - target: {fileID: 6862891280101194461, guid: e2e0a5fcc5c35214f93f958e6f77526a,
+        type: 3}
+      propertyPath: m_Name
+      value: Cool Blast
+      objectReference: {fileID: 0}
     - target: {fileID: 7264424310111708248, guid: e2e0a5fcc5c35214f93f958e6f77526a,
         type: 3}
       propertyPath: _leapProvider
@@ -1145,6 +1155,32 @@ PrefabInstance:
       propertyPath: leapProvider
       value: 
       objectReference: {fileID: 1651675583}
+    - target: {fileID: 7721791283390509868, guid: e2e0a5fcc5c35214f93f958e6f77526a,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e0b7179847dc4f844abc3b2ff15da6a8, type: 3}
+    - target: {fileID: 8211777011746256639, guid: e2e0a5fcc5c35214f93f958e6f77526a,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 10.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 8211777011746256639, guid: e2e0a5fcc5c35214f93f958e6f77526a,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 10.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 8211777011746256639, guid: e2e0a5fcc5c35214f93f958e6f77526a,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7b6c6f8e4c103a447ab538a68afcfef6,
+        type: 3}
+    - target: {fileID: 8211777011746256639, guid: e2e0a5fcc5c35214f93f958e6f77526a,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
