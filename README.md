@@ -7,7 +7,7 @@ This is useful for users who may not be able to use more than one hand - enablin
 
 ## Dependencies
 
-- Ultraleap's [Interaction Engine](https://github.com/ultraleap/UnityPlugin) (included in the package manager via openupm).
+- Ultraleap's [Unity Plugin](https://github.com/ultraleap/UnityPlugin) (included in the project as a submodule).
 
 ## What is available?
 
