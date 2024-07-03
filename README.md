@@ -1,4 +1,5 @@
 # Single Handed Menu
+https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/17143693/a9322de1-f436-4652-abbd-d98144388f75
 
 Single Handed Menu builds off existing the Hand Menu design paradigm, allowing you to detach the menu from the hand it is attached to.
 
