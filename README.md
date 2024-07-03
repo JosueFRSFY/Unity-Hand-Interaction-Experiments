@@ -1,7 +1,8 @@
 # Squish Summon
 
-Summon objects far away by squishing them! This genuinely feels a little bit like magic.
+https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/17143693/0b05391d-9961-468b-b70d-259ef1754000
 
+Summon objects far away by squishing them! This genuinely feels a little bit like magic.
 
 ## Dependencies
 
