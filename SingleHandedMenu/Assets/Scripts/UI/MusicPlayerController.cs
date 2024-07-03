@@ -2,7 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using Ultraleap.PhysicalHands;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.Audio;
 
@@ -105,7 +104,10 @@ public class MusicPlayerController : MonoBehaviour
     private void UpdateSpeed(float newSpeed)
     {
         audioSource.pitch = newSpeed;
-        pitchBendGroup.audioMixer.SetFloat("pitchBend", 1f / newSpeed);
+        if (pitchBendGroup != null)
+        {
+            pitchBendGroup.audioMixer.SetFloat("pitchBend", 1f / newSpeed);
+        }
         _rotationSpeed = rotationSpeed * newSpeed;
     }
 

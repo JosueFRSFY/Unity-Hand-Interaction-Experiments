@@ -1160,6 +1160,12 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: e0b7179847dc4f844abc3b2ff15da6a8, type: 3}
+    - target: {fileID: 7721791283390509868, guid: e2e0a5fcc5c35214f93f958e6f77526a,
+        type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300002, guid: 1ad5f42979c0b8b48bafd63afe138783,
+        type: 2}
     - target: {fileID: 8211777011746256639, guid: e2e0a5fcc5c35214f93f958e6f77526a,
         type: 3}
       propertyPath: m_Size.x
