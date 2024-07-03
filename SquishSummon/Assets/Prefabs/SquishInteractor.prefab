@@ -145,7 +145,7 @@ PrefabInstance:
     - target: {fileID: 6995529014362483891, guid: e551ffe0fbc3fae4ea69f16fe926019b,
         type: 3}
       propertyPath: conecastMaxRadius
-      value: 3
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 7813136039509847506, guid: e551ffe0fbc3fae4ea69f16fe926019b,
         type: 3}
