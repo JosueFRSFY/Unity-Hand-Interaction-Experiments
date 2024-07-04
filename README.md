@@ -6,7 +6,7 @@ Summon objects far away by squishing them! This genuinely feels a little bit lik
 
 ## Dependencies
 
-- Ultraleap's [Unity Plugin](https://github.com/ultraleap/UnityPlugin) (included in the project as a submodule).
+- Both the core, and preview packages of Ultraleap's [Unity Plugin](https://github.com/ultraleap/UnityPlugin) (included in the project as a submodule).
 
 ## What is available?
 
