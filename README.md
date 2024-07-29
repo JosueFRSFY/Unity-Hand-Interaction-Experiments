@@ -16,11 +16,9 @@ Fine-grain interactions using the thumb and index finger. Read more [here](https
 
 ## This project was built with
 
-* Unity 2020.3.44f1
-* Ultraleap Tracking Plugin 6.6.0 (via OpenUPM)
+* Unity 2022.3.9f1
+* Ultraleap Tracking Plugin 6.15.1 (via OpenUPM)
 * OpenXR
-* Universal Render Pipeline
-* Visual Effects Graph
 
 ## Warnings
 
